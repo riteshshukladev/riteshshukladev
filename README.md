@@ -1,4 +1,4 @@
-[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240620T143556Z&X-Amz-Expires=300&X-Amz-Signature=232f0f37906ff65611da6c2434842f433976ff458dd7dae2832384c74919578f&X-Amz-SignedHeaders=host&actor_id=108568521&key_id=0&repo_id=588181932)]
+
 <h1 align="center">Hi 👋, I'm Ritesh SHukla</h1>
 <h3 align="center">Frontend Developer based in India.</h3>
 
