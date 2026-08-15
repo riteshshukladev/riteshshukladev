@@ -14,6 +14,4 @@ backend systems primarily through Go, and infra related things.</span>
 - <span style="font-size:15px;">devops and cloud</span>
 - <span style="font-size:15px;">building scalable AI automations and workflows</span>
 
----
 
-<span style="font-size:15px;">[Portfolio](https://portfolio-ritesh-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ritesh-shukla-475078244/)</span>
