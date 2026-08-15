@@ -1,4 +1,4 @@
-# Ritesh Shukla
+## Ritesh Shukla
 
 <span style="font-size:15px;">Backend Development, Automations & AI Engineering<br>
 Frontend dev by background, now exploring building reliable and scalable
@@ -6,7 +6,7 @@ backend systems primarily through Go, and infra related things.</span>
 
 ---
 
-## currently exploring:
+### currently exploring:
 
 - <span style="font-size:15px;">golang</span>
 - <span style="font-size:15px;">system design and networking core patterns</span>
