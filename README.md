@@ -8,10 +8,10 @@ backend systems primarily through Go, and infra related things.</sub>
 
 ## currently exploring:
 
-- <sub>golang</sub>
+- <sub>golang, concurrency and internals</sub>
 - <sub>system design and networking core patterns</sub>
 - <sub>db internals and caching patterns</sub>
-- <sub>devops and cloud</sub>
+- <sub>devops and infra</sub>
 - <sub>building scalable AI automations and workflows</sub>
 
 ---
