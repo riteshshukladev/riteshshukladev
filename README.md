@@ -1,19 +1,19 @@
 # Ritesh Shukla
 
-<sub>Backend Development, Automations & AI Engineering<br>
+<span style="font-size:15px;">Backend Development, Automations & AI Engineering<br>
 Frontend dev by background, now exploring building reliable and scalable
-backend systems primarily through Go, and infra related things.</sub>
+backend systems primarily through Go, and infra related things.</span>
 
 ---
 
 ## currently exploring:
 
-- <sub>golang, concurrency and internals</sub>
-- <sub>system design and networking core patterns</sub>
-- <sub>db internals and caching patterns</sub>
-- <sub>devops and infra</sub>
-- <sub>building scalable AI automations and workflows</sub>
+- <span style="font-size:15px;">golang</span>
+- <span style="font-size:15px;">system design and networking core patterns</span>
+- <span style="font-size:15px;">db internals and caching patterns</span>
+- <span style="font-size:15px;">devops and cloud</span>
+- <span style="font-size:15px;">building scalable AI automations and workflows</span>
 
 ---
 
-<sub>[Portfolio](https://portfolio-ritesh-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ritesh-shukla-475078244/)</sub>
+<span style="font-size:15px;">[Portfolio](https://portfolio-ritesh-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ritesh-shukla-475078244/)</span>
